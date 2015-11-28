@@ -1,0 +1,27 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target 'YouXiZhiJia' do
+
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'MBProgressHUD'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'MWPhotoBrowser'
+pod 'MLTransition'
+pod 'RESideMenu'
+pod 'CocoaAsyncSocket'
+pod 'Shimmer'
+pod 'FlatUIKit'
+pod 'AsyncDisplayKit'
+pod 'BlocksKit'
+pod 'SWTableViewCell'
+pod 'CocoaLumberjack'
+pod 'FMDB'
+
+end
+
